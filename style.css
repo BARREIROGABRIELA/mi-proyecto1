@@ -1,0 +1,53 @@
+.titulo{
+	position: relative;
+	display: inline-block;
+}
+
+.texto1{
+	position: absolute;
+	top: 358px;
+	left: 312px;
+	font-family: Roboto;
+	font-size: 64px;
+	color: #FFFFFF
+
+}
+
+.subtitulo{
+	position: absolute;
+	top: 561px;
+	left: 642px;
+	font-family: Roboto;
+	font-size: 48px;
+	line-height: 56px;
+	line-height: 100%;
+	vertical-align: top;
+	color; #000000
+
+}
+
+.postres{
+	position: absolute;
+	top: 644px;
+	left: 308px;
+
+}
+
+.pastas{
+	position: absolute;
+	top: 640px;
+	left: 644px;
+
+}
+
+.sopas{
+	position: absolute;
+	top: 644px;
+	left: 976px;
+}
+
+.ensaladas{
+	position: absolute;
+	top:644px;
+	left: 1302px;
+}
